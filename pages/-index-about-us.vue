@@ -13,7 +13,7 @@
               <span class="material-icons opacity-50 text-green-50">
                 work
               </span>
-              Our mission
+              Our mission is always made
             </h2>
             <ul class="text-sm mb-4">
               <li class="flex items-center mb-2">
