@@ -29,7 +29,7 @@
 
         <span>
         <sk-button secondary
-       href="https://github.com/stormkit-io/www-stormkit-io"
+       @click="BannerOpen"
         >Decline</sk-button>
         </span>
       </footer>
