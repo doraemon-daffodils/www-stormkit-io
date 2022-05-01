@@ -23,8 +23,13 @@
         <nuxt-link to="/policies/privacy">privacy policy</nuxt-link>.
       </main>
       <footer class="text-center">
+      <span>
         <sk-button secondary @click="closeBanner">Accept</sk-button>
-        <sk-button secondary  to="www.google.com" >Decline</sk-button>
+        </span>
+
+        <span>
+        <sk-button secondary  to="https ://google.com">Decline</sk-button>
+        </span>
       </footer>
     </div>
   </modal>
