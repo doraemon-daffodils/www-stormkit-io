@@ -28,8 +28,12 @@
         </span>
 
         <span>
-        <button   to="https://github.com/stormkit-io/www-stormkit-io"
-        >Decline</button>
+        <sk-button primary
+
+       @click="https://github.com/stormkit-io/www-stormkit-io"
+
+        >Decline
+        </sk-button>
         </span>
       </footer>
     </div>
