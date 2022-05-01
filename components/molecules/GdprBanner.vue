@@ -28,7 +28,9 @@
         </span>
 
         <span>
-        <sk-button secondary  to="https ://google.com">Decline</sk-button>
+        <sk-button secondary
+       href="https://github.com/stormkit-io/www-stormkit-io"
+        >Decline</sk-button>
         </span>
       </footer>
     </div>
