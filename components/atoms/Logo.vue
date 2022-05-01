@@ -10,7 +10,7 @@
       :class="`w-${size}`"
       alt="Stormkit Logo"
     />
-    Stormkit
+    Allen & Overy 
     <slot></slot>
   </nuxt-link>
 </template>

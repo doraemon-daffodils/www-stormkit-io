@@ -15,26 +15,24 @@
             your web apps seamlessly
           </h1>
           <h2 class="text-sm md:text-base leading-normal">
-            With Stormkit you can easily manage your frontend infrastructure. <br />
+            With Stormkit you can easily manage your frontend infrastructure.
+            <br />
             It integrates perfectly with your git flow.
           </h2>
           <div
             class="flex flex-col items-center md:items-start md:justify-start my-6 md:my-0"
           >
-            <sk-button
-              primary
-              class="mt-8 py-6 md:py-3 font-bold"
-              to="https://app.stormkit.io/auth"
-              >Deploy now for free</sk-button
+            <sk-button primary class="mt-8 py-6 md:py-3 font-bold" to="/docs"
+              >Business Insights</sk-button
             >
             <div class="mt-4" style="min-height: 34px">
               <client-only>
                 <sk-github-button
-                  href="https://github.com/stormkit-io/www-stormkit-io"
+                  href=" "
                   title="Stormkit GitHub Stars"
                   data-size="large"
                   data-show-count
-                  data-text="GitHub Stars"
+                  data-text="Docs"
                   aria-label="Star stormkit-io/www-stormkit-io on GitHub"
                 />
                 <template #placeholder>

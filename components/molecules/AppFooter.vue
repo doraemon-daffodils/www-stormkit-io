@@ -54,7 +54,7 @@
         <ul class="flex-auto mb-6 md:mb-0">
           <li class="font-bold mb-4">Resources</li>
           <li class="mb-2">
-            <nuxt-link to="/docs" class="text-blue-50">Docs</nuxt-link>
+            <nuxt-link to="/docs" class="text-blue-50">News & Insights </nuxt-link>
           </li>
           <li class="mb-2">
             <nuxt-link to="/docs/examples" class="text-blue-50"

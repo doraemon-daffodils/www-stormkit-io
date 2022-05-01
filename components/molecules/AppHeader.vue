@@ -75,7 +75,7 @@ export default {
       { text: 'Home', to: '/' },
       { text: 'About us', to: '/#about-us' },
       { text: 'Blog', to: '/blog' },
-      { text: 'Docs', to: '/docs' },
+      { text: 'News & Insights', to: '/docs' },
       {
         text: 'Roadmap',
         href: 'https://github.com/stormkit-io/app-stormkit-io/discussions',
