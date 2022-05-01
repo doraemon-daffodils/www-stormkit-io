@@ -12,7 +12,7 @@
         </div>
         <h2 class="font-bold text-2xl">Disclaimer</h2>
       </header>
-      <main class="font-light text-justify  max-w-2xl text-center mb-8">
+      <main class="font-light text-justify  max-w-2xl  mb-8">
 <p> This website has been designed only for the purposes of dissemination of basic information on _____; information which is otherwise available on the internet, various public platforms and social media.</p>
 
 <p>Careful attention has been given to ensure that the information provided herein is accurate and up-to-date. However, we are not responsible for any reliance that a reader places on such information and shall not be liable for any loss or damage caused due to any inaccuracy in or exclusion of any information, or its interpretation thereof. Reader is advised to confirm the veracity of the same from independent and expert sources.</p>
